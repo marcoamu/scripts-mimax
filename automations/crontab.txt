@@ -1,0 +1,10 @@
+# Content Extraction Automation - OpenClaw
+
+# Mañana (8:00 AM) - TikTok y YouTube
+0 8 * * * /root/.openclaw/workspace/scripts/automations/content-extractor.sh all 3 >> /root/.openclaw/workspace/logs/cron-extraction.log 2>&1
+
+# Tarde (8:00 PM) - TikTok y YouTube  
+0 20 * * * /root/.openclaw/workspace/scripts/automations/content-extractor.sh all 3 >> /root/.openclaw/workspace/logs/cron-extraction.log 2>&1
+
+# Cada 4 horas - Solo TikTok (más contenido)
+0 */4 * * * /root/.openclaw/workspace/scripts/automations/content-extractor.sh tiktok 5 >> /root/.openclaw/workspace/logs/cron-extraction.log 2>&1
