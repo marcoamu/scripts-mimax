@@ -1,0 +1,58 @@
+{
+  "Title": {
+    "font_name": null,
+    "font_size": 36.0,
+    "bold": true,
+    "color": null,
+    "alignment": "None"
+  },
+  "Heading 1": {
+    "font_name": "Poppins",
+    "font_size": 14.0,
+    "bold": true,
+    "color": "000000",
+    "alignment": "None"
+  },
+  "Heading 2": {
+    "font_name": "Poppins",
+    "font_size": 12.0,
+    "bold": true,
+    "color": "000000",
+    "alignment": "None"
+  },
+  "Heading 3": {
+    "font_name": "Poppins",
+    "font_size": null,
+    "bold": true,
+    "color": "000000",
+    "alignment": "None"
+  },
+  "BC Digital - Titular": {
+    "font_name": "Poppins",
+    "font_size": 14.0,
+    "bold": true,
+    "color": null,
+    "alignment": "None"
+  },
+  "BC Digital - Cuerpo de texto": {
+    "font_name": "Poppins",
+    "font_size": 11.0,
+    "bold": null,
+    "color": "000000",
+    "alignment": "JUSTIFY (3)"
+  },
+  "BC Digital - Aclaraciones": {
+    "font_name": "Poppins",
+    "font_size": null,
+    "bold": null,
+    "color": "000000",
+    "alignment": "JUSTIFY (3)"
+  },
+  "NORMAL_PROPUESTA": {
+    "font_name": "Times New Roman",
+    "font_size": null,
+    "bold": null,
+    "color": null,
+    "alignment": "JUSTIFY (3)"
+  }
+}

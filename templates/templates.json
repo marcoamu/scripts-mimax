@@ -1,0 +1,45 @@
+{
+  "templates": [
+    {
+      "id": "bc-digital",
+      "name": "BC Digital Propuesta",
+      "description": "Plantilla profesional con estilos de BC Digital",
+      "source_file": "bc-digital-plantilla.docx",
+      "styles_file": "bc-digital-template.json",
+      "styles": {
+        "title": { "font": "Poppins", "size": 36, "bold": true },
+        "heading1": { "font": "Poppins", "size": 14, "bold": true, "color": "000000" },
+        "heading2": { "font": "Poppins", "size": 12, "bold": true, "color": "000000" },
+        "body": { "font": "Poppins", "size": 11, "align": "justify" },
+        "code": { "font": "Consolas", "size": 9, "bg_color": "E8E8E8" },
+        "table_header": { "font": "Poppins", "bold": true, "color": "FFFFFF", "bg_color": "6366F1" }
+      }
+    },
+    {
+      "id": "default",
+      "name": "Formato Predeterminado",
+      "description": "Formato básico con estilos clásicos",
+      "styles": {
+        "title": { "font": "Calibri", "size": 28, "bold": true, "color": "6366F1" },
+        "heading1": { "font": "Calibri", "size": 18, "bold": true, "color": "333333" },
+        "heading2": { "font": "Calibri", "size": 14, "bold": true, "color": "444444" },
+        "body": { "font": "Calibri", "size": 11 },
+        "code": { "font": "Consolas", "size": 9, "bg_color": "E8E8E8" },
+        "table_header": { "font": "Calibri", "bold": true, "color": "FFFFFF", "bg_color": "6366F1" }
+      }
+    },
+    {
+      "id": "modern-purple",
+      "name": "Moderno Morado",
+      "description": "Estilo moderno con accent morado",
+      "styles": {
+        "title": { "font": "Segoe UI", "size": 32, "bold": true, "color": "6366F1" },
+        "heading1": { "font": "Segoe UI", "size": 20, "bold": true, "color": "333333" },
+        "heading2": { "font": "Segoe UI", "size": 16, "bold": true, "color": "444444" },
+        "body": { "font": "Segoe UI", "size": 11 },
+        "code": { "font": "Consolas", "size": 9, "bg_color": "1E1E2E", "color": "E0E0E0" },
+        "table_header": { "font": "Segoe UI", "bold": true, "color": "FFFFFF", "bg_color": "6366F1" }
+      }
+    }
+  ]
+}
